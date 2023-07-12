@@ -38,6 +38,7 @@ our [issue tracker](https://github.com/FirebaseExtended/flutterfire/issues/new/c
 Plugin issues that are not specific to FlutterFire can be filed in
 the [Flutter issue tracker](https://github.com/flutter/flutter/issues/new).
 
+
 ## Contributing
 
 If you wish to contribute a change to any of the existing plugins in this repo, please review
