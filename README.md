@@ -15,8 +15,6 @@
 </p>
 
 ---
-
-
 [[Documentation]](https://firebase.flutter.dev) • [[Changelog]](./CHANGELOG.md) • [[Packages]](https://pub.dev/publishers/firebase.google.com/packages)
 
 ---
